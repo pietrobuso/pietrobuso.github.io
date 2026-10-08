@@ -4,9 +4,9 @@ Página da dinâmica "Meu Chará – Peças que se Conectam": cada grupo abre 4 
 
 ## Como funciona
 
-- 6 grupos (temas: Praia, Castelo, Acampamento, Circo, Aeroporto e Fazenda), cada um com 4 charadas e 1 charada final. As 4 charadas são do grupo todo, não uma por pessoa.
-- A bomba é o cronômetro: 30 minutos. A bomba do site começa quando o grupo abre a primeira charada.
-- Cada charada vale 5 pontos e começa com uma pista. Cada pista nova revelada tira 1 ponto, e cada chute errado também. Toda resposta certa é montada em LEGO.
+- 6 grupos (temas: Praia, Castelo, Acampamento, Circo, Aeroporto e Fazenda), cada um com 4 charadas e 1 charada final. As 4 charadas são do grupo todo, não uma por pessoa, e abrem uma de cada vez: a próxima só libera quando a anterior for resolvida.
+- A bomba é o cronômetro: 15 minutos. A bomba do site começa quando o grupo abre a primeira charada.
+- Cada charada vale 5 pontos e começa com uma pista. As pistas contam a partir da abertura de cada charada; cada pista nova revelada tira 1 ponto, e cada chute errado também. Toda resposta certa é montada em LEGO.
 - Níveis, escolhidos na tela inicial: 1 · Aquecimento (todas as pistas desde o início, 3 chutes), 2 · Padrão (pista a cada 1min30, 3 chutes) e 3 · Desafio (pista a cada 3 min, 2 chutes).
 - O progresso fica salvo no navegador de cada computador. O botão "Reiniciar a dinâmica" apaga tudo.
 - Para abrir direto em um grupo, use o endereço com `#grupo-3` no final (de 1 a 6).
